@@ -5,7 +5,7 @@ A simplified Python-based trading bot that interacts with Binance USDT-M Futures
 The project demonstrates API integration, structured code design, logging, and error handling.
 
 
-🚀 Features
+## 🚀 Features
 
 
 ✅ Place Market Orders
@@ -27,7 +27,7 @@ API requests
 API responses
 
 
-Errors and exceptions
+## Errors and exceptions
 
 ✅ Error handling for:
 
@@ -37,7 +37,7 @@ Network issues
 
 
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
 trading_bot/
 │
@@ -55,7 +55,7 @@ trading_bot/
 
 
 
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
 1️⃣ Clone the repository
 
@@ -91,7 +91,7 @@ API_SECRET=your_testnet_api_secret
 
 
 
-▶️ How to Run
+## ▶️ How to Run
 
 📌 Place MARKET Order
 
@@ -103,7 +103,7 @@ python cli.py --symbol BTCUSDT --side SELL --order_type LIMIT --quantity 0.001 -
 
 
 
-📤 Output Example
+## 📤 Output Example
 
 ========== ORDER REQUEST ==========
 
@@ -126,7 +126,7 @@ Avg Price  : 42150.5
 
 
 
-🧾 Logging
+## 🧾 Logging
 
 All API activity is stored in:
 
@@ -140,7 +140,7 @@ API responses
 
 
 
-📊 Assumptions
+## 📊 Assumptions
 
 Only Binance Futures Testnet (USDT-M) is used
 
@@ -172,7 +172,7 @@ Quantity: 0.001
 
 
 
-⚠️ Security Notes
+## ⚠️ Security Notes
 
 Never expose API keys in code
 
@@ -183,7 +183,7 @@ Logs do not contain sensitive credentials
 
 
 
-📦 requirements.txt
+## 📦 requirements.txt
 
 python-binance
 
@@ -191,13 +191,13 @@ python-dotenv
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Built as part of a Python Developer assessment task for Binance Futures Testnet trading automation.
 
 
 
-🟢 Status
+## 🟢 Status
 
 ✔ Market Order Working
 ✔ Limit Order Working
