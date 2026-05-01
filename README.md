@@ -1,4 +1,4 @@
-📈 Binance Futures Testnet Trading Bot (Python)
+## 📈 Binance Futures Testnet Trading Bot (Python)
 
 A simplified Python-based trading bot that interacts with Binance USDT-M Futures Testnet to place Market and Limit orders via a CLI interface.
 
