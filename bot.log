@@ -1,0 +1,16 @@
+2026-05-01 18:13:15,515 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-05-01 18:13:17,167 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 18:15:16,203 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-05-01 18:15:17,236 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 23:17:55,634 - INFO - Request: BTCUSDT, SELL, LIMIT, 0.001, 60000.0
+2026-05-01 23:17:56,620 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 23:22:49,245 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-05-01 23:22:50,227 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 23:38:14,037 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-05-01 23:38:15,235 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 23:55:37,882 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-05-01 23:55:39,187 - INFO - Response: {}
+2026-05-02 00:07:41,388 - INFO - Request: BTCUSDT, SELL, LIMIT, 0.001, 60000.0
+2026-05-02 00:07:42,676 - INFO - Response: {}
+2026-05-02 00:14:15,554 - INFO - Request: BTCUSDT, SELL, LIMIT, 0.001, 60000.0
+2026-05-02 00:14:17,141 - INFO - Response: {}
